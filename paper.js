@@ -43,9 +43,9 @@ var superman = false;
  
 while (clarkKent){
     console.log("I'm just a nerdy columnist");
-    var phoneBoothQuickChange =Math.random();
-    if (phoneBoothQuickChange>= 0.5) {
-        clarkKent=false;
-        superman=true;
+    var phoneBoothQuickChange = Math.random();
+    if (phoneBoothQuickChange> = 0.5) {
+        clarkKent = false;
+        superman = true;
             console.log("Now I'm Superman!");}
     }
